@@ -20,16 +20,16 @@ Dichiariamo chi ha vinto.
 2. creare array e dividere lettere in singoli elementi
 3. convertire le lettere in stringa con join
 4. verificare se la parola è uguale una volta rovesciata
-5. mandare messaggio conferma 
+5. stampa in pagina
 
 
 #### Pari e Dispari
 
 1. creare prompt per la scelta della parola "pari" o "dispari"
 2. creare prompt per la scelta del numero per l'utente
+- creare if nel caso in cui il numero sia maggiore  di 5 o minure di 1
 3. creare randomizzarore per il numero del pc usando una funzione
 4. sommare i numeri ottenuti
-5. creare funzione verifica se il risultato è pari o dispari
-6. collegare il risultato alla scelta del numero dell utente e variare il messaggio in base alla
-7. congruenza (pari o dispari)
+5. creare funzione verifica se il risultato è pari o dispari 
+6. collegare il risultato alla scelta del numero dell utente e variare il messaggio in base alla congruenza (pari o dispari)
 8. mandare messaggio
