@@ -32,4 +32,4 @@ Dichiariamo chi ha vinto.
 4. sommare i numeri ottenuti
 5. creare funzione verifica se il risultato è pari o dispari 
 6. collegare il risultato alla scelta del numero dell utente e variare il messaggio in base alla congruenza (pari o dispari)
-8. mandare messaggio
+8. stampare in pagina
